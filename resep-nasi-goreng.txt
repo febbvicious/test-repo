@@ -2,9 +2,9 @@
 -RESEP NASI GORENG SPESIAL
 Bahan-bahan:
  ^2 piring nasi putih (sebaiknya nasi yang sudah dingin atau nasi sisa kemarin)
- ^3 butir telur
- ^300 gram daging ayam, dipotong kecil-kecil
- ^300 gram udang kupas (opsional)
+ ^4 butir telur
+ ^200 gram daging ayam, dipotong kecil-kecil
+ ^100 gram udang kupas (opsional)
  ^1 buah wortel, dipotong dadu kecil
  ^50 gram kacang polong (opsional)
  ^2 siung bawang putih, dicincang halus
