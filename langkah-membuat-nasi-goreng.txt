@@ -4,3 +4,4 @@ Langkah-langkah membuat nasi goreng
 ^tambahkan nasi putih
 ^goreng sampai bumbu tercampur
 ^tambahkan potongan sosis
+^Matikan kompor dan tuangkan nasi goreng ke piring
