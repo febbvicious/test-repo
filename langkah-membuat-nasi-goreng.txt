@@ -5,3 +5,5 @@ Langkah-langkah membuat nasi goreng
 ^goreng sampai bumbu tercampur
 ^tambahkan potongan sosis
 ^Matikan kompor dan tuangkan nasi goreng ke piring
+^Tambahkan condimen nya
+^Nasi goreng spesial siap di nikmati
